@@ -24,8 +24,10 @@
 
 ## Cisco Certificates
 
-[View Certificate 1 ](./cisco-cert-1.pdf)
-[View Certificate 2 ](./cisco-cert-2.pdf)
+[View Python Essentials 1](./cisco-cert-1.pdf)
+
+
+[View Python Essentials 2](./cisco-cert-2.pdf)
 
 
 ---
