@@ -24,15 +24,15 @@
 
 ## Cisco Certificates
 
-[View Certificate 1 →](./cisco-cert-1.pdf)
-[View Certificate 2 →](./cisco-cert-2.pdf)
+[View Certificate 1 ](./cisco-cert-1.pdf)
+[View Certificate 2 ](./cisco-cert-2.pdf)
 
 
 ---
 
 ## Course Video
 
-[Watch on YouTube →](https://youtu.be/hnyQiw98Z3E)
+[Watch on YouTube ](https://youtu.be/hnyQiw98Z3E)
 
 ---
 
